@@ -10,17 +10,12 @@
   margin: 0;
 }
 :root{
-  /* button and top bg */
+ 
   --lavenderpink: #feadd3;
-  /* bottom bg */
   --hollywoodcerise: hsl(322, 96%, 48%); 
-  /* text */
   --antiflashwhite: #f6f7f9; 
-  /* player bg */
   --rose: #fd007e; 
-  /* button */
   --mexicanpink: #eb0881; 
-  /* shadow bg */
   --tyrianpurple: rgb(65, 1, 38);
 
 }
