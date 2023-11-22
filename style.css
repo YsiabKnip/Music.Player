@@ -262,5 +262,5 @@ ul li .audio-duration{
 }
 ul li.playing{
   pointer-events: none;
-  color: var(--hollywoodcerise);
+  color: rgb(65, 1, 38);
 }
